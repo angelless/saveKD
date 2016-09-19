@@ -1,0 +1,6 @@
+message.yml : {
+   "Kill-message" : "&c{%killer%}&e님이 &3{%damager%}&e님을 살해하셨습니다"
+   "Total-message" : "&6{%killer%}&e[&6{%KK%} + 1 &e/{%KD%}]&6{%damager%}&e[{%DK%}/&6{%DD%} + 1&e]"
+
+
+}
